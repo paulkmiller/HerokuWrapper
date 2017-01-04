@@ -1,0 +1,2 @@
+require 'vienna'
+run Vienna
