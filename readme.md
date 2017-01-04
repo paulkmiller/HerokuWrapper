@@ -20,3 +20,5 @@ bundle install
 ```
 bundle exec rackup
 ```
+### Pushing To Heroku
+Make sure your code is layed out in the public folder as you'd like to see it. Run a local server to test. Otherwise, push everything to heroku as-is and it should work right out of the box.
